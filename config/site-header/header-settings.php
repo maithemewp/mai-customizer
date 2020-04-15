@@ -7,7 +7,7 @@ return [
 		'label'    => __( 'Background Color', 'mai-customizer' ),
 		'output'   => [
 			[
-				'element'  => '.footer-credits',
+				'element'  => '.site-header',
 				'property' => 'background-color',
 			],
 		],

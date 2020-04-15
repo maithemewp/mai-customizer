@@ -3,7 +3,7 @@
 return [
 	[
 		'type'     => 'color',
-		'settings' => 'background_color',
+		'settings' => 'background-color',
 		'label'    => __( 'Background Color', 'mai-customizer' ),
 		'output'   => [
 			[
@@ -14,7 +14,7 @@ return [
 	],
 	[
 		'type'     => 'color',
-		'settings' => 'text_color',
+		'settings' => 'text-color',
 		'label'    => __( 'Text Color', 'mai-customizer' ),
 		'output'   => [
 			[
